@@ -2,7 +2,7 @@
 - 👀 I’m interested in progresssing towards how github and open source world works.
 - 🌱 I’m currently learning python and java and open anything to pick anything while working which interests me.
 - 💞️ I’m looking to collaborate on any project which is for good cause
-- 📫 How to reach me ... You can email me at mandyshri2@gmail.com or call me at 732-759-0068
+- 📫 How to reach me through linkedln
 
 <!---
 mandyshri101/mandyshri101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
